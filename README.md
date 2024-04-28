@@ -1,5 +1,4 @@
 # Git Assignment - <MaggieOma>
-
 a. What is an issue?
 
 - It is tool or means for reporting and tracking bugs and troubleshooting tasks or resquests in repos. Issues can be created, have statuses and can be opened/closed, prioritized/triaged and organised for integration and resolution.
