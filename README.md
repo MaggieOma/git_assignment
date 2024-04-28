@@ -1,4 +1,4 @@
-# Git Assignment - MaggieOma
+# Git Assignment - <MaggieOma>
 
 a. What is an issue?
 
